@@ -363,3 +363,8 @@ docs/*
 .codegraph/
 *.bak*
 
+
+# ECC Loop Solver (Fase 2)
+.knowledge/solver/
+.knowledge/optmem/
+.knowledge/orchestration/
