@@ -48,6 +48,16 @@ The complete list of third-party dependencies and their licenses is maintained i
 | Infrastructure   | AWS CDK, cdk-nag, constructs                                     | Apache-2.0                    |
 | CLI              | Click, requests, boto3, pycognito                                | BSD-3-Clause, Apache-2.0      |
 
+### Text Diff Viewer Notice
+
+The web application's Text Diff Viewer plugin is backed by
+[react-diff-viewer-continued](https://github.com/Aeolun/react-diff-viewer-continued),
+distributed under the MIT license. Version `4.4.0` is the dependency declared in
+`web/package.json`, and the matching version and licence row is carried in the
+`THIRD PARTY COMPONENTS - WEB APPLICATION` table of the project `NOTICE.md` file.
+MIT permits use, modification, and redistribution with attribution and no warranty,
+and imposes no copyleft obligations.
+
 ### Optional LGPL-Licensed Components
 
 Certain optional components use LGPL-2.1 licensed libraries:
